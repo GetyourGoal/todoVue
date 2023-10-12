@@ -1,1 +1,5 @@
-hello
+Steps to pull the project from github to your visual code editor.
+Goto Visual Studio Code and download github pull requests and isuues extension.
+Click on setting icon and open command palette. In search bar, search for github clone.
+Copy the github repositry url https://github.com/GetyourGoal/todoVue and paste it here.Create new to folder to save the project on your desktop and select that folder.
+The project starts cloning.After cloning gets completed, click on open project. And run the project using npm run serve on the terminal.
